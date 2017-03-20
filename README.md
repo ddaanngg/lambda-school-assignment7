@@ -2,7 +2,7 @@
 
 ## Instructions
 ---
-1. Fork and clone this repo.  User the lecture video as a reference.  There is a lot of new information that was covered and it may take a while for this all to sink in.
+1. Fork and clone this repo. Use the lecture video as a reference.  There is a lot of new information that was covered and it may take a while for this all to sink in.
 
 
 
